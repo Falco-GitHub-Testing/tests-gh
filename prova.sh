@@ -4,6 +4,7 @@
 USER="Biagio-Dipalma"
 REPO="test-github-rules"
 CLASSIC_TOKEN="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"
+"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"
 
 # GitHub API endpoint for merged pull requests
 API_ENDPOINT="https://api.github.com/repos/${USER}/${REPO}/pulls?state=closed&sort=updated&direction=desc"
