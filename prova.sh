@@ -5,6 +5,7 @@ USER="Biagio-Dipalma"
 REPO="test-github-rules"
 GITHUB_TOKEN="test"
 
+
 # GitHub API endpoint for merged pull requests
 API_ENDPOINT="https://api.github.com/repos/${USER}/${REPO}/pulls?state=closed&sort=updated&direction=desc"
 
