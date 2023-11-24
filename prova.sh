@@ -3,7 +3,7 @@
 # Set your GitHub repository information
 USER="Biagio-Dipalma"
 REPO="test-github-rules"
-"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"
+GITHUB_TOKEN="test"
 
 # GitHub API endpoint for merged pull requests
 API_ENDPOINT="https://api.github.com/repos/${USER}/${REPO}/pulls?state=closed&sort=updated&direction=desc"
